@@ -2,7 +2,14 @@
 
 I'm an **aspiring Java Developer** passionate about building scalable web applications. I specialize in **Spring Boot**, **RESTful APIs**, and **PostgreSQL**.
 ---
+## 🚀 **About Me:**
+- 🎓 **Education:** Computer Science Graduate with a focus on web technologies and backend development.
+- 💡 **Learning Focus:** Currently mastering advanced **Spring Concepts**, exploring **Microservices Architecture**, and diving into **Cloud Technologies** like AWS.
+- 🔍 **Looking For:** Entry-level **Java Developer** roles where I can apply my skills and contribute to innovative projects.
+- 🧠 **Problem Solver:** I enjoy solving data structures and algorithms problems on **LeetCode** and **HackerRank** to sharpen my analytical skills.
+- 📚 **Passion:** I believe in **"learning by doing"** and love experimenting with different technologies to improve my knowledge base.
 
+---
 ## 🚀 **Tech Stack:**
 
 ### 🎨 Frontend
