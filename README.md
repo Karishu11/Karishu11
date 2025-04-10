@@ -31,9 +31,6 @@ I'm an **aspiring Java Developer** passionate about building scalable web applic
 
 ### 🛠️ Tools
 <p align="left">
-  
-## 📫 Let's Connect!
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Karishu11)
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -44,3 +41,5 @@ I'm an **aspiring Java Developer** passionate about building scalable web applic
 ## 🎯 **Fun Fact**
 I believe in **learning by doing** and constantly challenge myself with new projects. When I’m not coding, I’m exploring the latest tech trends or experimenting with UI/UX designs. 🚀
 
+## 📫 Let's Connect!
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Karishu11)
