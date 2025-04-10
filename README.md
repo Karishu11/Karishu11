@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karishma!
+I'm a dedicated and enthusiastic developer, eager to leverage my skills in building innovative applications and passionate about web and mobile development, and always ready to learn something new. 🚀
 
-I'm an **aspiring Java Developer** passionate about building scalable web applications. I specialize in **Spring Boot**, **RESTful APIs**, and **PostgreSQL**.
 ---
 ## 🚀 **About Me:**
 - 🎓 **Education:** Computer Science Graduate with a focus on web technologies and backend development.
